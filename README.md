@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emirhan and I'm a Web Developer from Turkiye.</h2>
+<h2 align="left">Hi 👋! My name is Emirhan and I'm a Full-Stack Developer from Turkiye.</h2>
 
 ###
 
